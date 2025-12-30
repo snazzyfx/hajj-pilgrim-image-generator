@@ -1,0 +1,7 @@
+{
+  "name": "Hajj Portrait Transformer",
+  "description": "Transform your portrait into a Hajj pilgrim wearing white Ihram clothing while maintaining your original facial features using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
